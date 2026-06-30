@@ -4,4 +4,4 @@ UPDATING SOON EVERY CONCEPT
 # stay tuned for something big is happening
 # something greats in minds creating great
 # great works
-# GREAT 
+# GREAT .
